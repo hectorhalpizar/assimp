@@ -9,6 +9,7 @@
 *.txt text eol=lf
 *.cmake text eol=lf
 *.sh text eol=lf
+*.py text eol=lf
 CHANGES text eol=lf
 CREDITS text eol=lf
 LICENSE text eol=lf
